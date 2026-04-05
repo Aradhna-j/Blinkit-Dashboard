@@ -57,7 +57,7 @@ To analyze Blinkit's sales data and identify key factors affecting performance, 
 * 📌 **Enabled faster identification of high-performing outlets and product categories**
 
 ## 📷 Dashboard Screenshots
- Full Dashboard View:
+ Full Dashboard View:https://github.com/Aradhna-j/Blinkit-Dashboard/blob/main/Screenshot%202026-04-05%20212114.png
 
 ## 📚 Learning & Acknowledgment
 This is my **first Power BI dashboard project**, created as part of my learning journey.
